@@ -1,4 +1,4 @@
-app.configgure({
+app.configure({
   version: 'master',
   project: 'Mustache Test',
   description: 'Um simples projeto HTML com mustache.js',
