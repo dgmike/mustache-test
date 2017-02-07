@@ -12,5 +12,5 @@ function App() {
   return app;
 }
 
-window.app = window.app || new App;
+window.app = new App;
 
